@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true spirits of scurvey-grass both plain and golden, with their respective vertues. Faithfully prepared only by the first author Rob. Bateman.</title>
+            <author>Bateman, Robert, pharmacist.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17536</idno><idno type="EEBO-CITATION">99888641</idno>
+  <idno type="VID">195858</idno>
+  <idno type="EEBO-PROQUEST">2240901864</idno>
+  
+            <idno type="STC">Wing B1096D</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[54]</idno>
+            <idno type="STC">ESTC R231379</idno>
+            <idno type="PROQUEST">ocm99888641</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888641e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195858)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true spirits of scurvey-grass both plain and golden, with their respective vertues. Faithfully prepared only by the first author Rob. Bateman.</title>
+                  <author>Bateman, Robert, pharmacist.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: closely cropped.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_scurvy-grass">
+            <pb facs="tcp:195858:1"/>
+            <pb facs="tcp:195858:1"/>
+            <head>The True SPIRITS of SCURVEY-GRASS Both PLAIN and GOLDEN, With their Respective Vertues. Faithfully Prepared <hi>only</hi> by the <hi>first</hi> Author <hi>ROB. BATEMAN.</hi>
+            </head>
+            <p>OBserving divers years since how <hi>General</hi> a Disease the <hi>Scurvey</hi> was become; and considering for an apt <hi>Remedy,</hi> I pitcht my thoughts on that Herb, which from it, Vertues in that Case is called <hi>Scurvey-Grass;</hi> but both Reason and Experience soon convinc'd me, That although the same <hi>duly Prepared,</hi> contain a most <hi>Excellent Medicine,</hi> yet the Vulgar indis<g ref="char:EOLhyphen"/>creet manner of using it, was not only little advantagious, but oft times <hi>prejudicial;</hi> for the common <hi>Scurvey-Grass-Ale, Beer,</hi> or <hi>Juice,</hi> leaves a Cold, <hi>Earthy, undigested slime</hi> behind it on the Stomach: As if you let a quart of it but stand twelve hours, you may perceive; for in the bottom you shall find such an h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, <hi>Greenish, Slimy Settling,</hi> which taken into the Body must needs be harmful, and lay a too sure Foundation for most desperate Distempers. Not to mention their putting <hi>Jallop</hi> and <hi>Scamony</hi> into such Drinks, two Drugs, which uncorrected, are so powerful to <hi>open and Gripe</hi> the Body, that many have thereby taken <hi>violent Colds,</hi> which thickening the aforesaid slimy Phlegmatick matter, <hi>tedious Feavers, Gripings in the Stomach and Guts, sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtness of Breath, d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of Appetite and Digestion, deep Consumptions,</hi> &amp;c. have followed, and their former years pretended Physick, proved the real cause of many succeeding years grievous Languishment.</p>
+            <p>To prevent these apparent mischeifs, I diligently and faithfully fell to work, to prepare the <hi>Spirits</hi> of this Noble Herb. Which being separated from those gross Impurities, and wrought up by Art to their <hi>highest Perfection,</hi> for essisting Nature, and Answering the intents of Healing, I found them to be <hi>most Effectual Remedyes,</hi> not only for the <hi>Scurvey</hi> and all its <hi>Symptomes;</hi> but also against the <hi>Drop<g ref="char:EOLhyphen"/>sey,</hi> and several other Diseases. And having in my particular observation <hi>long Experienced</hi> such their In<g ref="char:EOLhyphen"/>comparable Effects, I was induced for a General Good about four years ago, First, to Publish and Recommend the same to the World; whereby great Numbers of either Sex have to their exceeding comfort found Releif and Cure; and that even when all other means failed, and proved ineffectual.</p>
+            <p>By which means <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny said <hi>Spirits</hi> becoming deservedly <hi>Famous</hi> throughout the three Nations, se<g ref="char:EOLhyphen"/>veral <hi>Whisting Ʋpstarts</hi> have since presumed to <hi>Counterfeit</hi> them, and deceive the unwary, whose <hi>Fraud and Boldness</hi> I have in <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormer Papers</hi> detected, and hope (if we may hope for any <hi>Modesty</hi> in such Graceless Animals) they will be <hi>Ashamed</hi> for the future to Abuse the World; or at least that People so fairly forewarn'd, will grow wiser then to be Abused by them.</p>
+            <p>However finding their <hi>Counterfeiting designs</hi> frustrated. There is of late a certain <hi>Elixir-monger,</hi> or <hi>Chymical Piece-Broker,</hi> who amongst the rest of his <hi>Small Wares</hi> and <hi>Slip-Slops</hi> that he wants Mo<g ref="char:EOLhyphen"/>ney for, pretends to fell <hi>the Elixir of Horse-Radish;</hi> which he would perswade People, <hi>Exceeds the Spirit of Scurvey-Grass,</hi> &amp;c. But the Reader must Note, that he has only this <hi>Mercenary Hucksters</hi> word for it, and that the Persons <hi>Name</hi> that prepares it is <hi>Concealed,</hi> as being probably ashamed to own either his work or the Impudence of that Assertion, as well he may, since 'tis known that that <hi>Churlish Plant</hi> has been long repudiated by the most <hi>Judicious and Wary Physitians,</hi> as <hi>too violent</hi> in its operation; Nor will this <hi>Blustering Incognito</hi> with a few hard words and noise of <hi>Essential, Seminal, Bals<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ick Crasis of Vegetables of Ʋ<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity in the Concrete,</hi> and the like Conjuring <hi>bumbastian C<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:195858:2"/>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om the musty leaves of <hi>Paracelsus,</hi> be able to <hi>Charm</hi> the <hi>Discreet</hi> so far as to make them sacrifice th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Health or Lives to his Avarice and Ignorance.</p>
+            <div type="part">
+               <head>But—<hi>Quid opus est Verbis?—Spectemur Agendo.</hi>
+               </head>
+               <p>The Excellency of these my truly prepared Spirits of Scurvey-Grass, their <hi>Gentleness,</hi> and yet <hi>wor<g ref="char:EOLhyphen"/>derful Efficacy</hi> in operation, and their <hi>Remarkable Success</hi> in the <hi>Scurvey, Dropsey,</hi> and other Genera<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Diseases are so sufficiently known, as neither Envy can <hi>Conceal,</hi> nor Impudence <hi>deny.</hi> And therefore having in former papers publisht several <hi>Authentick Testimonials</hi> of their admired Effects, need not here Repeat them, nor insert many others which are daily sent to me from divers parts with thanks and blessings to God for the discovery of so happy a Remedy of Scurvey-Grass.</p>
+               <p>The <hi>Plain Spirit</hi> of <hi>Scurvey-Grass</hi> works by Urine, and in many Cases is sufficient; but where the Bowels are foul, and there is need of Purging, it may be convenient to use my <hi>Golden Spirit</hi> which works by <hi>Stool,</hi> but without <hi>Violence, Griping,</hi> or <hi>binding</hi> the Body afterwards, being most properly called <hi>Golden,</hi> not only in respect of its delightful <hi>Colour,</hi> but also for its <hi>Sovereign Vertues,</hi> excelling all the common <hi>Pills, Elixirs</hi> and <hi>Devices,</hi> which many now adays boast of, as much as that precious <hi>Oar</hi> does <hi>Lead,</hi> and other viler Minerals; there not being a more <hi>Noble or Gallant</hi> Medi<g ref="char:EOLhyphen"/>cine extant especially if witha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we consider its <hi>Cheapness</hi> too, whereby the <hi>Poor</hi> are furnisht with four or five, as safe and <hi>Effectual</hi> Purges as any in the World, for one shilling.</p>
+               <p>These true Spirits are Approved to be singular Remedies, beyond any yet known, against the <hi>Scurvey, Dropsey, Stone, Wind cholick, Griping in the Guts, Gravel in the Kidneys, Green Sickness, all Obstructions of the Liver and Spleen, Wormes, Cankers, the Mouth-Scurvey, Hypochondraick Melan<g ref="char:EOLhyphen"/>choly and Agues,</hi> &amp;c. They mightily procure a good <hi>Appetite,</hi> help <hi>Digestion,</hi> are great Preventives of <hi>Consumptions,</hi> and most excellent Anti-Scorbutick Medicines for Sea-faring Persons, and those that inhabit in foreign Plantations, for they retain their goodness and Vertues at <hi>Sea</hi> as well as <hi>Land,</hi> and continue the same in diversity of <hi>Climates;</hi> nay, are so far from Corrupting, that they preserve those bodies who often take of them, and deliver them from all putrid matter, which Causes a mul<g ref="char:EOLhyphen"/>titude of Diseases. Price 1 s. each bottle.</p>
+               <p>My true Spirits, both Golden and Plain, are only to be had at these Places following, with Printed Directions for the Use of them; The bottles are seal'd with my Coat of Armes, the <hi>Half-Moon</hi> and <hi>Ermins,</hi> to prevent Counterfeits.</p>
+               <p>At Mr. <hi>Dorman Newman</hi> at the Kings Armes in the <hi>Poultrey,</hi> Mr. <hi>Parker</hi> at the Leg and Star, <hi>Cornhill,</hi> against the <hi>Royal Exchange,</hi> Mr. <hi>Hindmarsh</hi> at the black Bull in <hi>Cornhill,</hi> over against the <hi>Royal Ex<g ref="char:EOLhyphen"/>change,</hi> Mr. <hi>Thornton</hi> at the sun-dial, <hi>Minories, Mr. Fisher</hi> on Great Tower-hill, <hi>Mr. Lacey</hi> at the Golden Lion near the Kings Head Inn, <hi>Southwark,</hi> Mr. <hi>Rich. Northco<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> next <hi>Peters</hi> Alley in <hi>Cornhill,</hi> and at his shop at the An<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hor and Marrin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r on New Fish-street Hill, near <hi>London</hi>-bridge, <hi>Mr. Hope</hi> at the North-Entrance into the Royal Exchange, <hi>Mr. Parkhurst</hi>'s shop on <hi>London</hi>-bridge by the Gate, Mr. <hi>Mortlock</hi> at the Phoenix in St. <hi>Pauls</hi> Church-yard, and at his shop at the white Hart in <hi>West<g ref="char:EOLhyphen"/>minster</hi> Hall, Mr. <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttersby</hi> at <hi>Thavie</hi>'s Inn Gate in <hi>Holbourn, Mr. Place</hi> at <hi>Furnivals</hi> Inn Gate, <hi>Mr. Dring</hi> at the Harrow the corner of <hi>Chancery</hi> lane against the Temple Gate, <hi>Mr. Magnus</hi> at the post-house in <hi>Russel</hi> street, <hi>Covent</hi> Garden, Mr. <hi>Lowndes</hi> against <hi>Exceter</hi> house in the strand, <hi>Mr. Ledsum</hi> at the post-house in the strand over against <hi>Northumberland</hi> house, <hi>Mr. Charl<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Passenger</hi> at the seven stars on <hi>London</hi> bridge, Mr. <hi>Rycroft</hi> in <hi>Leaden</hi> hall street, the corner of <hi>Grace</hi>-Church street. All Book<g ref="char:EOLhyphen"/>sellers and Stationers. And at Mr. <hi>Nest</hi>'s shop at <hi>Westmi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi>-Hall door, Mr. <hi>Adams</hi> a Cheesemonger at the Frying pan in <hi>Clare</hi> market, Mr. <hi>Cossins</hi> a Grocer at the three sugar-loaves in <hi>Newgate</hi> market, Mr. <hi>Scot</hi> Haberdasher at the Hat and Gun without <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>shops</hi> gate, Mrs. <hi>Holmes</hi> at the Plow in shore<g ref="char:EOLhyphen"/>ditch, Mr. <hi>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kinson</hi> Teacher of the Mathemati<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> at Cherry Garden stairs in <hi>Redr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff, Mr. Fage</hi> Gro<g ref="char:EOLhyphen"/>cer at the sugar-loaf in St. <hi>James</hi>'s market, <hi>M<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>wson</hi> Grocer in <hi>Dorset</hi> street in <hi>Spittle</hi>-Fields.</p>
+               <p>And at my own House in <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hain near <hi>Doctors Commons.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
